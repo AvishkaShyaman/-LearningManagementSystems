@@ -8,3 +8,24 @@ and open the template in the editor.
     Author     : acer
 */
 
+.fields {
+    -fx-background-color: transparent;
+    -fx-border-color: #0598ff;
+    -fx-border-width: 0px 0px 2px 0px;
+}
+
+.main-background {
+    -fx-background-color: #0598ff;
+}
+
+.btn-blue {
+    -fx-background-color: #0598ff;
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 14px;
+}
+
+.main-font {
+    -fx-text-fill: #0598ff;
+    -fx-font-size: 20px;
+        ;
+}
